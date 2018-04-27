@@ -1,4 +1,5 @@
-# Embedded Firmware Essentials Spring 2018 Lectue Code Examples
+# Embedded Firmware Essentials Lecture Code Examples
+# UCSC Extension, Spring Quarter 2018
 
 ## Week 1
 
