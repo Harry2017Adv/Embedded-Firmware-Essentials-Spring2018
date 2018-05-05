@@ -8,3 +8,9 @@
 - Lect2_DigitalIn
 
 
+## Week 2
+
+- Lect2_BusOut
+- Lect2_PortOut
+- Lect2_Motor
+- Lect2_MotorPWM
