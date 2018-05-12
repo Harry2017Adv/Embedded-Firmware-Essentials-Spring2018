@@ -14,3 +14,11 @@
 - Lect2_PortOut
 - Lect2_Motor
 - Lect2_MotorPWM
+
+## Week 3
+
+- Lect3_PWM_Motor
+- Lect3_2LEDWait
+- Lect3_2LEDTimer
+- Lect3_2LEDTicker
+
