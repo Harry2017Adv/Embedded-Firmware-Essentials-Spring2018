@@ -22,3 +22,8 @@
 - Lect3_2LEDTimer
 - Lect3_2LEDTicker
 
+## Week 4
+
+- Lect4_2x16LCD
+- Lect4_ADXL345
+
