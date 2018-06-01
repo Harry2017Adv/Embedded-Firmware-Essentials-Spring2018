@@ -27,3 +27,9 @@
 - Lect4_2x16LCD
 - Lect4_ADXL345
 
+## Week 5
+
+-Lect5_ADXL345_Modular
+-Lect5_Serial_Interrupt
+-Lect5_TMP102
+
