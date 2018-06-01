@@ -30,7 +30,7 @@
 
 ## Week 5
 
--Lect5_ADXL345_Modular
--Lect5_Serial_Interrupt
--Lect5_TMP102
+- Lect5_ADXL345_Modular
+- Lect5_Serial_Interrupt
+- Lect5_TMP102
 
