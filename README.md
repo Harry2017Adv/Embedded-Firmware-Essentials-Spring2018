@@ -34,3 +34,6 @@
 - Lect5_Serial_Interrupt
 - Lect5_TMP102
 
+## Week 6
+
+- Lect6_Available_Flash
